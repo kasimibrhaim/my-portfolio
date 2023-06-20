@@ -19,7 +19,9 @@ function Concard({}: Props) {
     <div className="px-12 py-4 max-w-3xl ">
   <div className="bg-white dark:bg-gray-50/5 shadow-lg rounded-sm py-6 px-5">
     <h2 className="text-lg font-bold mb-2">Contact and & hire Kasim Ibrahim</h2>
-    <p className="text-gray-600 dark:text-gray-400">You have the power to rock that form conversion rate.</p>
+    <p className="text-gray-600 dark:text-gray-400">
+      Please dont hesitate to get in touch by leaving a message 
+      in the form below..</p>
   </div>
   </div>
 </div> 
