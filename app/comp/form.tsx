@@ -213,8 +213,8 @@ export default function Form() {
     <p className="text-gray-600 my-4"><span className="font-bold">Company:</span> 
     <span className="ml-1">Taifa Ai Consulting </span>
     </p>
-    {/* <p className="text-gray-600 my-4"><span className="font-bold">WhatsApp:</span> 
-    <span className="ml-1">+254720166635 </span>
+    {/* <p className="text-gray-600 my-4"><span className="font-bold">Phone:</span> 
+    <span className="ml-1"> </span>
     </p> */}
     <p className="text-gray-600 my-4"><span className="font-bold">Address:</span> 
     <span className="ml-1">Nairobi, Kenya </span>
