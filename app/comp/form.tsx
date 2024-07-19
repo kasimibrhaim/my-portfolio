@@ -211,7 +211,7 @@ export default function Form() {
     <hr className="my-4 border-gray-600 "/>
     <div className="my-4">
     <p className="text-gray-600 my-4"><span className="font-bold">Company:</span> 
-    <span className="ml-1">Taifa Ai Consulting </span>
+    <span className="ml-1">Ai Consulting </span>
     </p>
     {/* <p className="text-gray-600 my-4"><span className="font-bold">Phone:</span> 
     <span className="ml-1"> </span>
